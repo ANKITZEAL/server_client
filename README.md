@@ -1,2 +1,2 @@
 # server_client
-Client+_+Server+Architecture.jpg
+![screenshot](Client+_+Server+Architecture.jpg)
