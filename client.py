@@ -25,9 +25,9 @@ def send(msg):
 
 send(" ankit is my name")
 input()
-send(" anKU is my name")
+send(" ankit is my name")
 input()
-send(" anit is my name")
+send(" rahul is my name")
 
 
 send(DISCONNECT_MESSAGE)
